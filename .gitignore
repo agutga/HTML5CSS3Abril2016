@@ -1,0 +1,15 @@
+# OS X Files
+
+*._.DS_Store
+
+# Windows files
+Thumbs.db
+
+#Java bin files
+*.class
+
+#Executable files
+*.exe
+
+# Python
+*.pyc
